@@ -1,7 +1,5 @@
 .vscode
 CalculadoraConsole/bin/
 CalculadoraConsole/obj/
-CalculadoraConsole/Program.cs
 CalculadoraTests/bin/
 CalculadoraTests/obj
-Program
